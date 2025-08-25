@@ -1,4 +1,4 @@
-import update = require("lodash.update")
+import { update } from "lodash"
 import unset = require("lodash.unset")
 import get = require("lodash.get")
 
